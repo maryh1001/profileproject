@@ -1,0 +1,15 @@
+.title {
+    color: rgb(65, 42, 42); 
+    font-size: 55px;
+    text-shadow: 5px 1px 1px rgb(77, 85, 92);
+    -webkit-text-stroke: .5px black;
+}
+.profilepic {
+    width: 310px;
+    height: 400px;
+    border: 10px solid dimgrey;
+}
+body {
+    background-color: rgb(106, 131, 106);
+    font-family: Verdana, sans-serif;
+}
